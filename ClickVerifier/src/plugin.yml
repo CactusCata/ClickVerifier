@@ -1,0 +1,7 @@
+name: ClickVerifier
+author: CactusCata
+version: 1.0
+main: fr.cactuscata.clickverifier.ClickVerifier
+commands:
+   verif:
+      usage: /verif player
